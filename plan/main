@@ -1,1 +1,17 @@
 #include <turnkey/base>
+
+/* deutrino's kitchen sink */
+
+sudo
+telnet
+mosh
+lynx
+lftp
+vim
+ack
+htop
+ipset
+
+/* required for conf.d/99deutrino */
+
+patch
